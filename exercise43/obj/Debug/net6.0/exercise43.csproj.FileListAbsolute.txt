@@ -1,0 +1,15 @@
+C:\Users\Yulya\Desktop\home_work_C#_6\exercise43\bin\Debug\net6.0\exercise43.exe
+C:\Users\Yulya\Desktop\home_work_C#_6\exercise43\bin\Debug\net6.0\exercise43.deps.json
+C:\Users\Yulya\Desktop\home_work_C#_6\exercise43\bin\Debug\net6.0\exercise43.runtimeconfig.json
+C:\Users\Yulya\Desktop\home_work_C#_6\exercise43\bin\Debug\net6.0\exercise43.dll
+C:\Users\Yulya\Desktop\home_work_C#_6\exercise43\bin\Debug\net6.0\exercise43.pdb
+C:\Users\Yulya\Desktop\home_work_C#_6\exercise43\obj\Debug\net6.0\exercise43.csproj.AssemblyReference.cache
+C:\Users\Yulya\Desktop\home_work_C#_6\exercise43\obj\Debug\net6.0\exercise43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yulya\Desktop\home_work_C#_6\exercise43\obj\Debug\net6.0\exercise43.AssemblyInfoInputs.cache
+C:\Users\Yulya\Desktop\home_work_C#_6\exercise43\obj\Debug\net6.0\exercise43.AssemblyInfo.cs
+C:\Users\Yulya\Desktop\home_work_C#_6\exercise43\obj\Debug\net6.0\exercise43.csproj.CoreCompileInputs.cache
+C:\Users\Yulya\Desktop\home_work_C#_6\exercise43\obj\Debug\net6.0\exercise43.dll
+C:\Users\Yulya\Desktop\home_work_C#_6\exercise43\obj\Debug\net6.0\refint\exercise43.dll
+C:\Users\Yulya\Desktop\home_work_C#_6\exercise43\obj\Debug\net6.0\exercise43.pdb
+C:\Users\Yulya\Desktop\home_work_C#_6\exercise43\obj\Debug\net6.0\exercise43.genruntimeconfig.cache
+C:\Users\Yulya\Desktop\home_work_C#_6\exercise43\obj\Debug\net6.0\ref\exercise43.dll
